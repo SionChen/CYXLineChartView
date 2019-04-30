@@ -1,0 +1,6 @@
+framework module CYXLineChartView {
+  umbrella header "CYXLineChartView-umbrella.h"
+
+  export *
+  module * { export * }
+}
