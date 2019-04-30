@@ -1,6 +1,6 @@
 {
   "name": "CYXLineChartView",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "折线图组件",
   "description": "折线图组件库",
   "homepage": "https://github.com/SionChen/CYXLineChartView",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/SionChen/CYXLineChartView.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "8.0"

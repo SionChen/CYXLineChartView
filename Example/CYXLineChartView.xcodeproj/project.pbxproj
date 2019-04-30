@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = SionChen;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = UDTM6QBP66;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -319,7 +322,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-CYXLineChartView_Example/Pods-CYXLineChartView_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-CYXLineChartView_Example/Pods-CYXLineChartView_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/CYXLineChartView/CYXLineChartView.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -328,7 +331,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CYXLineChartView_Example/Pods-CYXLineChartView_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CYXLineChartView_Example/Pods-CYXLineChartView_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FBF698955B94DFE950E54F4D /* [CP] Check Pods Manifest.lock */ = {
@@ -486,6 +489,7 @@
 			baseConfigurationReference = 952C5896C0CF2C504E8A5B2E /* Pods-CYXLineChartView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UDTM6QBP66;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CYXLineChartView/CYXLineChartView-Prefix.pch";
 				INFOPLIST_FILE = "CYXLineChartView/CYXLineChartView-Info.plist";
@@ -501,6 +505,7 @@
 			baseConfigurationReference = EE416C138651DD1FA8F66205 /* Pods-CYXLineChartView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UDTM6QBP66;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CYXLineChartView/CYXLineChartView-Prefix.pch";
 				INFOPLIST_FILE = "CYXLineChartView/CYXLineChartView-Info.plist";

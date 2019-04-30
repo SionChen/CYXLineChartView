@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "CYXLineChartView.h"
+#import "CYXPointerView.h"
+#import "UIView+Size.h"
 
 FOUNDATION_EXPORT double CYXLineChartViewVersionNumber;
 FOUNDATION_EXPORT const unsigned char CYXLineChartViewVersionString[];

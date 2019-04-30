@@ -1,5 +1,5 @@
 PODS:
-  - CYXLineChartView (0.1.0)
+  - CYXLineChartView (0.2.0)
 
 DEPENDENCIES:
   - CYXLineChartView (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CYXLineChartView: ee787e7fb750cc1ba473aac123cb80fbb414f131
+  CYXLineChartView: 8f75576428d29bd0a0d8592ce1ac9d5897881efb
 
 PODFILE CHECKSUM: b82527bd27e0f8a1ad3b65fa031d3fa09548af82
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.1
