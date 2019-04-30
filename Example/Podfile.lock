@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CYXLineChartView: ea9f1f0bdc5ad960a35287aa6888489f2ce2bd95
+  CYXLineChartView: ee787e7fb750cc1ba473aac123cb80fbb414f131
 
 PODFILE CHECKSUM: b82527bd27e0f8a1ad3b65fa031d3fa09548af82
 

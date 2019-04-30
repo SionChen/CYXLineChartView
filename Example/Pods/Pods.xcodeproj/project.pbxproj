@@ -13,12 +13,12 @@
 		45A794D238FC6B1FCF72018BB01AC6A7 /* Pods-CYXLineChartView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EF908F9ED2B3A969878252614952FF9C /* Pods-CYXLineChartView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		5231A6914432079B0EBC2BCC277C0EF9 /* Pods-CYXLineChartView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CFBC322006365C649FACDE2CF2A413FE /* Pods-CYXLineChartView_Example-dummy.m */; };
 		5396618560BCBAA540E015A0A9428505 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 3764DD7EEC1686DAA36AA53AD3847171 /* ReplaceMe.m */; };
-		55EB4F44227808F900FD1379 /* UIView+Size.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F3C227808F900FD1379 /* UIView+Size.h */; };
-		55EB4F45227808F900FD1379 /* CYXLineChartView.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F3D227808F900FD1379 /* CYXLineChartView.h */; };
-		55EB4F46227808F900FD1379 /* CYXPointerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F3E227808F900FD1379 /* CYXPointerView.m */; };
-		55EB4F47227808F900FD1379 /* UIView+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F3F227808F900FD1379 /* UIView+Size.m */; };
-		55EB4F48227808F900FD1379 /* CYXLineChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F40227808F900FD1379 /* CYXLineChartView.m */; };
-		55EB4F49227808F900FD1379 /* CYXPointerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F42227808F900FD1379 /* CYXPointerView.h */; };
+		55EB4F54227827F600FD1379 /* UIView+Size.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F4C227827F600FD1379 /* UIView+Size.h */; };
+		55EB4F55227827F600FD1379 /* CYXLineChartView.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F4D227827F600FD1379 /* CYXLineChartView.h */; };
+		55EB4F56227827F600FD1379 /* CYXPointerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F4E227827F600FD1379 /* CYXPointerView.m */; };
+		55EB4F57227827F600FD1379 /* UIView+Size.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F4F227827F600FD1379 /* UIView+Size.m */; };
+		55EB4F58227827F600FD1379 /* CYXLineChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 55EB4F50227827F600FD1379 /* CYXLineChartView.m */; };
+		55EB4F59227827F600FD1379 /* CYXPointerView.h in Headers */ = {isa = PBXBuildFile; fileRef = 55EB4F52227827F600FD1379 /* CYXPointerView.h */; };
 		5ABAA204D9FEA038B75BE46083EADEF2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		A2E8C2EE9A3B6CDF88AF5230D314B38B /* CYXLineChartView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 37B1E092DACF6774F3D24D01CBD07A8D /* CYXLineChartView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F14B162B2C2007DF43E3B49B6BA4739D /* Pods-CYXLineChartView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D5D3201327985C43FE82DF348C3F9A40 /* Pods-CYXLineChartView_Tests-dummy.m */; };
@@ -51,14 +51,14 @@
 		4CA793B1C4DF37BED4E6D9123D98E337 /* Pods-CYXLineChartView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CYXLineChartView_Example.modulemap"; sourceTree = "<group>"; };
 		4D5C7350E28E3D2BBE3F856529EDEEC3 /* Pods_CYXLineChartView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CYXLineChartView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		51271D2192C36AF36E81B714C295DC51 /* CYXLineChartView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = CYXLineChartView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		55EB4F3C227808F900FD1379 /* UIView+Size.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Size.h"; sourceTree = "<group>"; };
-		55EB4F3D227808F900FD1379 /* CYXLineChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYXLineChartView.h; sourceTree = "<group>"; };
-		55EB4F3E227808F900FD1379 /* CYXPointerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYXPointerView.m; sourceTree = "<group>"; };
-		55EB4F3F227808F900FD1379 /* UIView+Size.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Size.m"; sourceTree = "<group>"; };
-		55EB4F40227808F900FD1379 /* CYXLineChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYXLineChartView.m; sourceTree = "<group>"; };
-		55EB4F41227808F900FD1379 /* chartPoint@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chartPoint@3x.png"; sourceTree = "<group>"; };
-		55EB4F42227808F900FD1379 /* CYXPointerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYXPointerView.h; sourceTree = "<group>"; };
-		55EB4F43227808F900FD1379 /* chartPoint@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chartPoint@2x.png"; sourceTree = "<group>"; };
+		55EB4F4C227827F600FD1379 /* UIView+Size.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Size.h"; sourceTree = "<group>"; };
+		55EB4F4D227827F600FD1379 /* CYXLineChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYXLineChartView.h; sourceTree = "<group>"; };
+		55EB4F4E227827F600FD1379 /* CYXPointerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYXPointerView.m; sourceTree = "<group>"; };
+		55EB4F4F227827F600FD1379 /* UIView+Size.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Size.m"; sourceTree = "<group>"; };
+		55EB4F50227827F600FD1379 /* CYXLineChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYXLineChartView.m; sourceTree = "<group>"; };
+		55EB4F51227827F600FD1379 /* chartPoint@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chartPoint@3x.png"; sourceTree = "<group>"; };
+		55EB4F52227827F600FD1379 /* CYXPointerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYXPointerView.h; sourceTree = "<group>"; };
+		55EB4F53227827F600FD1379 /* chartPoint@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chartPoint@2x.png"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5DBA06757B5B402DB02C866A51063E4B /* CYXLineChartView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CYXLineChartView-prefix.pch"; sourceTree = "<group>"; };
 		670C4F6564A610240AF99696B7C1C58B /* Pods-CYXLineChartView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CYXLineChartView_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -136,17 +136,25 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		55EB4F3B227808F900FD1379 /* ChatView */ = {
+		55EB4F4A227827F600FD1379 /* Classess */ = {
 			isa = PBXGroup;
 			children = (
-				55EB4F3C227808F900FD1379 /* UIView+Size.h */,
-				55EB4F3D227808F900FD1379 /* CYXLineChartView.h */,
-				55EB4F3E227808F900FD1379 /* CYXPointerView.m */,
-				55EB4F3F227808F900FD1379 /* UIView+Size.m */,
-				55EB4F40227808F900FD1379 /* CYXLineChartView.m */,
-				55EB4F41227808F900FD1379 /* chartPoint@3x.png */,
-				55EB4F42227808F900FD1379 /* CYXPointerView.h */,
-				55EB4F43227808F900FD1379 /* chartPoint@2x.png */,
+				55EB4F4B227827F600FD1379 /* ChatView */,
+			);
+			path = Classess;
+			sourceTree = "<group>";
+		};
+		55EB4F4B227827F600FD1379 /* ChatView */ = {
+			isa = PBXGroup;
+			children = (
+				55EB4F4C227827F600FD1379 /* UIView+Size.h */,
+				55EB4F4D227827F600FD1379 /* CYXLineChartView.h */,
+				55EB4F4E227827F600FD1379 /* CYXPointerView.m */,
+				55EB4F4F227827F600FD1379 /* UIView+Size.m */,
+				55EB4F50227827F600FD1379 /* CYXLineChartView.m */,
+				55EB4F51227827F600FD1379 /* chartPoint@3x.png */,
+				55EB4F52227827F600FD1379 /* CYXPointerView.h */,
+				55EB4F53227827F600FD1379 /* chartPoint@2x.png */,
 			);
 			path = ChatView;
 			sourceTree = "<group>";
@@ -200,7 +208,7 @@
 		9288C1E266EC01DE6E88FA147A9D5E13 /* CYXLineChartView */ = {
 			isa = PBXGroup;
 			children = (
-				55EB4F3B227808F900FD1379 /* ChatView */,
+				55EB4F4A227827F600FD1379 /* Classess */,
 				3764DD7EEC1686DAA36AA53AD3847171 /* ReplaceMe.m */,
 				381CBB1E2CDE9D6D21DED7FF54B11E9A /* Pod */,
 				A3479AC7E1BC835128574D12608B331A /* Support Files */,
@@ -280,10 +288,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55EB4F44227808F900FD1379 /* UIView+Size.h in Headers */,
+				55EB4F54227827F600FD1379 /* UIView+Size.h in Headers */,
 				A2E8C2EE9A3B6CDF88AF5230D314B38B /* CYXLineChartView-umbrella.h in Headers */,
-				55EB4F49227808F900FD1379 /* CYXPointerView.h in Headers */,
-				55EB4F45227808F900FD1379 /* CYXLineChartView.h in Headers */,
+				55EB4F59227827F600FD1379 /* CYXPointerView.h in Headers */,
+				55EB4F55227827F600FD1379 /* CYXLineChartView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -385,11 +393,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55EB4F48227808F900FD1379 /* CYXLineChartView.m in Sources */,
+				55EB4F58227827F600FD1379 /* CYXLineChartView.m in Sources */,
 				25E36EEABA19DDC8229F9EDF5660927F /* CYXLineChartView-dummy.m in Sources */,
-				55EB4F46227808F900FD1379 /* CYXPointerView.m in Sources */,
+				55EB4F56227827F600FD1379 /* CYXPointerView.m in Sources */,
 				5396618560BCBAA540E015A0A9428505 /* ReplaceMe.m in Sources */,
-				55EB4F47227808F900FD1379 /* UIView+Size.m in Sources */,
+				55EB4F57227827F600FD1379 /* UIView+Size.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
